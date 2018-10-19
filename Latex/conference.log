@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.8)  19 OCT 2018 17:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.8)  19 OCT 2018 18:07
 entering extended mode
 **./conference.tex
 (conference.tex
@@ -464,18 +464,17 @@ LaTeX Warning: Citation `metuV2' on page 1 undefined on input line 74.
 
 LaTeX Warning: Citation `metuV1' on page 1 undefined on input line 74.
 
-
-LaTeX Warning: Citation `LBP' on page 1 undefined on input line 82.
-
 [1{C:/Users/OWL/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
+
+LaTeX Warning: Citation `LBP' on page 2 undefined on input line 82.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 85.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 85.
-
 
 LaTeX Warning: Citation `GIST' on page 2 undefined on input line 93.
 
@@ -497,6 +496,9 @@ File: images/caracteristicasMatu.png Graphic file (type png)
 Package pdftex.def Info: images/caracteristicasMatu.png  used on input line 116
 .
 (pdftex.def)             Requested size: 227.62204pt x 86.99911pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 LaTeX Warning: Citation `metuV2' on page 2 undefined on input line 120.
 
@@ -533,6 +535,8 @@ Underfull \hbox (badness 1655) in paragraph at lines 148--149
 print
  []
 
+[2 <./images/caracteristicasMatu.png> <./images/comparasciondataset.png> <./ima
+ges/metudataset.png> <./images/queriesmetu2.png>]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -544,8 +548,9 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[2 <./images/caracteristicasMatu.png> <./images/comparasciondataset.png> <./ima
-ges/metudataset.png> <./images/queriesmetu2.png>] (conference.aux)
+[3
+
+] (conference.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -553,11 +558,11 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  3965 strings out of 492970
  66393 string characters out of 3135861
- 134016 words of memory out of 3000000
+ 135016 words of memory out of 3000000
  7820 multiletter control sequences out of 15000+200000
  35192 words of font info for 64 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,7n,40p,617b,410s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,7n,40p,1416b,410s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
@@ -570,9 +575,9 @@ ts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
 /fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
 /times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pf
 b>
-Output written on conference.pdf (2 pages, 580681 bytes).
+Output written on conference.pdf (3 pages, 584374 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
+ 70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
